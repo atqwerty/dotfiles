@@ -1,0 +1,39 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/atqwerty/Desktop/projects/work/vlife-cms
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/store/configureStore/middleware/api/index.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/store/configureStore/middleware/api/index.ts
+> git check-ignore -v -z --stdin
+> git cat-file -s b62c4c89142042d4b7671afece819f06bb167be9
+> git show :src/settings/axios.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/settings/axios.ts
+> git cat-file -s 25b77e0cdfb26b35d7a6180f4e18c89eae0339ab
+> git check-ignore -v -z --stdin
+> git show :src/store/configureStore/middleware/api/index.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/store/configureStore/middleware/api/index.ts
+> git cat-file -s b62c4c89142042d4b7671afece819f06bb167be9
+> git check-ignore -v -z --stdin
+> git show :src/components/Modal/components/NewItem/components/FileUpload.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/components/Modal/components/NewItem/components/FileUpload.tsx
+> git cat-file -s 31fde7642dad2c9db7505dc7dc0d6971aa701f06
+> git status -z -u
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/components/Modal/components/NewItem/components/FileUpload.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 31fde7642dad2c9db7505dc7dc0d6971aa701f06
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+> git show :src/components/Modal/components/NewItem/components/FileUpload.tsx
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

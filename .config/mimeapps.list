@@ -1,0 +1,4 @@
+[Added Associations]
+text/plain=emacs.desktop;
+application/pdf=org.pwmt.zathura.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=firefox.desktop;

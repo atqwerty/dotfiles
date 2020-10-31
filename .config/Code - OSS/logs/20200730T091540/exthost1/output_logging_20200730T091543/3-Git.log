@@ -1,0 +1,20 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/atqwerty/Desktop/projects/work/vlife-cms
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/similar-items-in-sub-form-fix
+> git rev-parse --symbolic-full-name fix/similar-items-in-sub-form-fix@{u}
+fatal: no upstream configured for branch 'fix/similar-items-in-sub-form-fix'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/modules/common/actions/address.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/address.ts
+> git cat-file -s bdcf01b4f8f01216e2a82cdb232a0fbbca6ef782
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b

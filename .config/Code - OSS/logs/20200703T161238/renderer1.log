@@ -1,0 +1,10 @@
+[2020-07-03 16:21:50.959] [renderer1] [error] timeout after 1000 ms: Error: timeout after 1000 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3159:190)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3158:451
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3156:536)
+[2020-07-03 16:22:20.110] [renderer1] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at e.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1124:184)
+    at expand (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1122:305)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6454:538
+    at Set.forEach (<anonymous>)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6454:517

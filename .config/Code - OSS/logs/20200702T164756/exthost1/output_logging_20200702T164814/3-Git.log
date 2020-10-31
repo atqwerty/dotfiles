@@ -1,0 +1,299 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/atqwerty/Desktop/projects/work/vlife-cms
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/store/configureStore/middleware/api/index.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/store/configureStore/middleware/api/index.ts
+> git cat-file -s b62c4c89142042d4b7671afece819f06bb167be9
+> git show :src/settings/axios.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/settings/axios.ts
+> git cat-file -s 25b77e0cdfb26b35d7a6180f4e18c89eae0339ab
+> git check-ignore -v -z --stdin
+> git show :lib/api/helpers.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/lib/api/helpers.ts
+> git cat-file -s 63bded9cbb1c3e9ad246efa177bcee2e995dffee
+> git check-ignore -v -z --stdin
+> git show :src/modules/common/actions/address.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/address.ts
+> git cat-file -s bdcf01b4f8f01216e2a82cdb232a0fbbca6ef782
+> git check-ignore -v -z --stdin
+> git show :src/modules/auth/containers/SignIn.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/auth/containers/SignIn.ts
+> git cat-file -s 1b46c7fe0eaf027271a6e0aaf377bae2cb1fec65
+> git check-ignore -v -z --stdin
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git check-ignore -v -z --stdin
+> git show :src/modules/common/reducers/index.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/reducers/index.ts
+> git cat-file -s 83227d1e87a31250fad84b271c066aa8c8eecd6f
+> git check-ignore -v -z --stdin
+> git show :src/modules/common/reducers/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/reducers/productCategories.ts
+> git cat-file -s dba6a0e27ae6687dd26228785fff327645e1ddd6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/shop/actions/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/actions/stock.ts
+> git cat-file -s bade020d9e49b10940cf5a86719fcc195080f19c
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/shop/actions/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/actions/stock.ts
+> git cat-file -s bade020d9e49b10940cf5a86719fcc195080f19c
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git show :src/modules/shop/actions/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/actions/stock.ts
+> git cat-file -s bade020d9e49b10940cf5a86719fcc195080f19c
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/actions/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s bade020d9e49b10940cf5a86719fcc195080f19c
+> git rev-parse feat/new-product-modal-form
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+> git show :src/modules/shop/actions/stock.ts
+> git show :src/modules/common/actions/productCategories.ts
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/shop/containers/OrdersList.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/OrdersList.ts
+> git cat-file -s 4d4de16bdaeee4f16c66b06ac838c0b0d7e32401
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/containers/ProductTable.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/ProductTable.ts
+> git cat-file -s 981ad9a9cb14b9befb22b1442414c7bba3d70333
+> git check-ignore -v -z --stdin
+> git show :src/components/Modal/components/NewProductForm/components/MainForm/MainForm.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/components/Modal/components/NewProductForm/components/MainForm/MainForm.tsx
+> git cat-file -s 3ad508fd2bc959f24a85e4095d0f953a55352f2d
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/routes.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/routes.tsx
+> git cat-file -s 80ce9c71a0f052540ed6d852f398c1d16aa9e934
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/pages/Stocks/connect.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/pages/Stocks/connect.ts
+> git cat-file -s 1b7122a121d53664baf718bc4281babde3d1cc02
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/containers/Modal.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/containers/Modal.ts
+> git cat-file -s dfd2b5c82d5959436ad94c32167d3be15881de35
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat/new-product-modal-form
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/shop/containers/StocksListPage.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/StocksListPage.ts
+> git cat-file -s 2dc45840723fbe7334b93934f365f2d46beb4a7a
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/components/StocksListPage/StocksListPage.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/StocksListPage/StocksListPage.tsx
+> git cat-file -s 3ee16466deff2850d9c0a84e410915bd9eeb2c0e
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/containers/StocksListPage.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/StocksListPage.ts
+> git cat-file -s 2dc45840723fbe7334b93934f365f2d46beb4a7a
+> git show :src/modules/shop/pages/Stocks/connect.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/pages/Stocks/connect.ts
+> git cat-file -s 1b7122a121d53664baf718bc4281babde3d1cc02
+> git show :src/modules/shop/reducers/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/reducers/stock.ts
+> git cat-file -s 22e0ca23b42c16967847493492e04bd80a8881d0
+> git check-ignore -v -z --stdin
+> git show :src/modules/shop/containers/StocksListPage.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/StocksListPage.ts
+> git cat-file -s 2dc45840723fbe7334b93934f365f2d46beb4a7a
+> git status -z -u
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/routes.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/containers/StocksListPage.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s 80ce9c71a0f052540ed6d852f398c1d16aa9e934
+> git rev-parse feat/new-product-modal-form
+> git cat-file -s 2dc45840723fbe7334b93934f365f2d46beb4a7a
+> git rev-parse --symbolic-full-name feat/new-product-modal-form@{u}
+fatal: no upstream configured for branch 'feat/new-product-modal-form'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/modules/shop/routes.tsx
+> git show :src/modules/shop/containers/StocksListPage.ts
+> git config --get commit.template
+> git show :src/modules/common/actions/productCategories.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/common/actions/productCategories.ts
+> git cat-file -s c7ce7422e2a1944f9b432c29ff4d5bf8d0efe99b
+> git show :src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/components/NewItem/components/Main/Main.tsx
+> git cat-file -s 07c6b7e45b6f96ef3874520d2eb894d559d43193
+> git show :src/modules/shop/actions/stock.ts
+> git ls-files --stage -- /home/atqwerty/Desktop/projects/work/vlife-cms/src/modules/shop/actions/stock.ts
+> git cat-file -s bade020d9e49b10940cf5a86719fcc195080f19c
